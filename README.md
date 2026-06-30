@@ -2,6 +2,11 @@
 
 An AI-powered Interview Copilot built with **Python**, **Streamlit**, and **Google Gemini AI**. This application helps users prepare for interviews by generating interview questions, evaluating answers, and providing detailed AI-powered feedback.
 
+## 🌐 Live Demo
+
+🚀 **Try the live application here:**
+
+👉 [AI Interview Copilot](https://ai-interview-copilot-8na835mgli5uatuzddgced.streamlit.app/)
 ---
 
 ##  Features
